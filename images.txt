@@ -1,6 +1,6 @@
 #支持私库
 cloudnas/clouddrive2:0.5.12
-cloudnas/clouddrive2:0.7.7
+cloudnas/clouddrive2:0.7.9
 allanpk716/chinesesubfinder
 tearsful/nas-tools:2.9.1
 #支持指定架构
