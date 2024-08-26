@@ -1,3 +1,4 @@
 #支持私库
-tinymediamanager/tinymediamanager:5.0.9
+langgenius/dify-web:0.7.2
+langgenius/dify-api:0.7.2
 #支持指定架构
