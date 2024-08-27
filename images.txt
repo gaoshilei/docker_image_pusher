@@ -1,5 +1,4 @@
 #支持私库
-langgenius/dify-sandbox:0.2.6
-redis:7.4.0
-postgres:15-alpine
+nginx:latest
+ubuntu/squid:latest
 #支持指定架构
