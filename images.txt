@@ -1,4 +1,3 @@
 #支持私库
-nginx:latest
-ubuntu/squid:latest
+p3terx/aria2-pro:202209060423
 #支持指定架构
