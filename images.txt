@@ -1,3 +1,3 @@
 #支持私库
-tinymediamanager/tinymediamanager:5.0.13
+jenkins/jenkins:2.490
 #支持指定架构
