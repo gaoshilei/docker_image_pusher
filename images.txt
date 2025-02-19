@@ -1,1 +1,1 @@
-docker pull jenkins/jenkins:2.498
+jenkins/jenkins:2.498
