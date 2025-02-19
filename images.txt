@@ -1,5 +1,3 @@
 #支持私库
-goslei/clash:1.18.0
-homeassistant/home-assistant:latest
-xhofe/alist:latest
+docker pull jenkins/jenkins:2.498
 #支持指定架构
