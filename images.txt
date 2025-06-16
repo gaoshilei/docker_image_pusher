@@ -1,3 +1,1 @@
-jenkins/jenkins:2.498
-xhofe/alist:v3.44.0
-tinymediamanager/tinymediamanager:5.1.4
+xhofe/alist:v3.40.0
