@@ -1,1 +1,1 @@
-xhofe/alist:v3.40.0
+tinymediamanager/tinymediamanager:5.2.3
