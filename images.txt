@@ -1,2 +1,2 @@
-tinymediamanager/tinymediamanager:5.2.4
-cloudnas/clouddrive2:1.0.10
+tinymediamanager/tinymediamanager:5.3.1
+cloudnas/clouddrive2:1.0.13
